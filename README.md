@@ -3,61 +3,51 @@ ndanielmwaka@gmail.com | +254702848580 | [Your LinkedIn Profile URL - Highly Rec
 
 **SUMMARY**
 
-Recent graduate with a Bachelor's degree in Electrical and Electronics Engineering and a strong foundation in analytical thinking and problem-solving. Currently enhancing data-related skills through a Data Science program at Moringa School, gaining proficiency in data manipulation, analysis, and visualization concepts. Possesses advanced skills in Microsoft Excel and a keen interest in leveraging data for social impact and conservation programs. Demonstrates strong organizational skills, attention to detail, and excellent communication abilities. Eager to apply technical and analytical skills in a practical data management role and contribute to meaningful community development and conservation initiatives.
+Highly motivated and detail-oriented individual with a strong aptitude for research, analysis, and communication. Possesses excellent reading comprehension and writing skills in English, both informal and professional. Eager to contribute to technological advancements and innovation by supporting AI model training through accurate data labeling and annotation. Demonstrates strong organizational and interpersonal capabilities, with a proven ability to learn quickly and exercise sound judgment. Currently expanding technical skills and seeking an entry-level opportunity as an AI Tutor.
 
 **SKILLS**
 
-* **Data Management Tools:** Microsoft Excel (Advanced), SQL (Exposure)
-* **Data Analysis & Visualization (Familiarity):** Power BI, Statistical Analysis (Excel), Data Visualization (Excel)
-* **Mobile Data Collection (Exposure):** Kobo Toolbox (Conceptual Understanding from Data Science Program)
-* **Programming Languages (Relevant for Data Handling):** Python (Basic), C++, C
-* **Other Software:** Microsoft Office Suite (Word, PowerPoint), CAD Software (MATLAB-Simulink, AutoCAD-Electrical - Demonstrates technical aptitude)
-* **Analytical & Technical Skills:** Data Interpretation, Logical Reasoning, Attention to Detail, Troubleshooting
-* **Soft Skills:** Strong Organizational Skills, Excellent Written and Verbal Communication (English), Teamwork, Research
+* **Language Proficiency:** English (Fluent - Reading, Writing, Speaking)
+* **Research Skills:** Proficient in navigating online resources, databases, and various information sources.
+* **Analytical Skills:** Strong analytical capabilities with the ability to interpret information and exercise autonomous judgment.
+* **Communication Skills:** Outstanding written and verbal communication skills.
+* **Interpersonal Skills:** Excellent interpersonal skills, capable of collaborating effectively.
+* **Organizational Skills:** Strong organizational skills with keen attention to detail.
+* **Technical Aptitude:** Passion for and commitment to technological advancements and innovation.
+* **Software Familiarity:** Proficient in basic computer applications; adaptable to new software.
 
 **EDUCATION**
-
-**Course:** Data Science Bootcamp (Currently Enrolled)
-**Institution:** Moringa School
-**Duration:** [Start Date] – Present
-    * Developing foundational skills in data manipulation, cleaning, analysis, and visualization using tools like Python and potentially Power BI.
-    * Gaining exposure to data collection methodologies and database concepts.
 
 **Course:** BSC in Electrical and Electronics Engineering
 **Institution:** Dedan Kimathi University of Technology
 **Duration:** Sep 2013 – Dec 2019
-    * Developed strong analytical and problem-solving skills through coursework in Power Systems, Electrical Machines, and Control Engineering.
-    * Proficient in using Microsoft Excel for data analysis and reporting within engineering projects.
-    * Experience with programming languages (Python, C++, C) that can be applied to data handling and automation.
-    * Conducted research and managed projects, demonstrating organizational skills and attention to detail.
+    * Developed strong analytical and problem-solving skills through technical coursework.
+    * Honed research abilities through academic projects and assignments.
+    * Gained experience in technical documentation and communication.
 
 **Course:** Certificate in Computer Packages
 **Institution:** Century Park College
 **Duration:** Jan 2013 – Aug 2013
-    * Acquired advanced proficiency in Microsoft Excel, including spreadsheet management, statistical analysis features, and data visualization.
-    * Developed skills in data, process, and project implementation visualizations.
+    * Developed proficiency in word processing and basic data handling.
 
 **WORK EXPERIENCE**
 
 **Position:** Maintenance Department Intern
 **Company:** Numerical Machining Complex
 **Duration:** Feb 2024 – Jan 2025
-    * Interpreted technical documentation (CNC machine blueprints), demonstrating attention to detail and ability to understand complex information.
-    * Updated machine maintenance records, showcasing data entry and organizational skills.
-    * Calibrated, tested, and monitored PLC systems, indicating experience with data acquisition and quality checks.
+    * Interpreted technical documents, demonstrating strong reading comprehension.
+    * Maintained detailed records, showcasing organizational skills and attention to detail.
 
 **Position:** Electrical Technician
 **Company:** KALU Electrical Works
 **Duration:** Oct 2020 – Nov 2023
-    * Troubleshooted faulty wiring circuits and electrical machines, highlighting analytical and problem-solving abilities.
-    * Conducted repairs and installations, requiring attention to detail and adherence to procedures.
-    * Sized and installed Solar Panel (PV) systems, involving basic data analysis for system requirements.
+    * Troubleshooted technical issues, requiring analytical thinking and problem-solving.
+    * Communicated technical information effectively.
 
 **Position:** Electrical Department Intern
 **Company:** Kenya Electricity Generating Company
 **Duration:** Jan 2018 – Apr 2018
-    * Assisted in monitoring Electro-Mechanical and Electro-Chemical processes, gaining exposure to data collection and observation in a technical setting.
-    * Participated in energy audits and project inventory management, involving data gathering and organization.
+    * Assisted with technical tasks, demonstrating a willingness to learn and contribute.
 
 **PROFESSIONAL ASSOCIATIONS**
 
@@ -66,7 +56,7 @@ Recent graduate with a Bachelor's degree in Electrical and Electronics Engineeri
 
 **HOBBIES**
 
-Research, Teamwork
+Research (demonstrates a natural inclination for information gathering), Teamwork (suggests ability to collaborate)
 
 **REFERENCES**
 
